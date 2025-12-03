@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav Dagar
 
-🔐 **Cybersecurity Analyst | SOC & Threat Detection | Penetration Tester**  
+🔐 **Penetration Tester**  
 📍 New Delhi, India  
 
 ---
