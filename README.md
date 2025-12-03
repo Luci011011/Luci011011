@@ -2,9 +2,6 @@
 
 🔐 **Cybersecurity Analyst | SOC & Threat Detection | Penetration Tester**  
 📍 New Delhi, India  
-🎯 OSCP | CEH  
-🏆 Top 1% on TryHackMe & PortSwigger  
-🥇 HackQuest Winner 2024
 
 ---
 
