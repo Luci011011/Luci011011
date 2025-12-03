@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a results-driven **Cybersecurity Analyst** with hands-on experience in **SOC operations, threat detection, penetration testing, and security automation**. I’ve worked with **DRDO** and **AICTE**, building real-world security tools, automating detection pipelines, and reducing incident response times.
+I’m a results-driven **Cybersecurity Analyst** with hands-on experience in **SOC operations, threat detection, penetration testing, and security automation**.
 
 I specialize in:
  
